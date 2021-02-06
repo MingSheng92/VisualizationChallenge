@@ -13,6 +13,7 @@ Below is how the final looks of the Visualization:
 
 ### Steps taken: 
 Data transformation: 
+
 1.replace null values with 0
 
 2.transfrom value type to whole numbers for further processing
