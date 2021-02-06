@@ -14,7 +14,9 @@ Below is how the final looks of the Visualization:
 ### Steps taken: 
 Data transformation: 
 1.replace null values with 0
+
 2.transfrom value type to whole numbers for further processing
+
 
 ### future work
 Schdule refresh, we can configure power BI to refresh the data at an interval so that we can ensure we will always get the latest results.
