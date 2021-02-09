@@ -9,9 +9,12 @@ Python <br />
 Jupyter <br />
 
 ### Visuzlization
-Below is how the final looks of the Visualization:
+1st draft:
 
 ![Figure1](https://github.com/MingSheng92/VisualizationChallenge/blob/main/image/Dashboard.JPG)
+
+Refined version:
+![Figure2](https://github.com/MingSheng92/VisualizationChallenge/blob/main/image/Dashboard_refined.JPG)
 
 #### * note to self: there seems to have a bug to cause the daily confirmed and daily death case numbers to show incorrectly, fix it later
 
