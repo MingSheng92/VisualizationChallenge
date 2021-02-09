@@ -25,5 +25,8 @@ Data transformation:
 
 
 ### future work
+1. Heat map adjustment, as for now the heatmap presentation is barely visible ( not sure if there is any possible way to improve it maybe by using scaler)
+2. adding machine learning into the visualiztion, by training a regression model we can predict the future cases (with R or python) 
+3. more graphs, now that we have a base that has scracthed the surface, we can add more meaningful graphs to represent our data to answer our questions 
 
 ### Conclusion 
