@@ -13,10 +13,12 @@ Jupyter <br />
 
 ![Figure1](https://github.com/MingSheng92/VisualizationChallenge/blob/main/image/Dashboard.JPG)
 
-Refined version:
+Refined version:<br />
+This is the latest version where all the calculation is fixed and refined layout.<br />
 ![Figure2](https://github.com/MingSheng92/VisualizationChallenge/blob/main/image/Dashboard_refined.JPG)
 
-#### * note to self: there seems to have a bug to cause the daily confirmed and daily death case numbers to show incorrectly, fix it later
+Found a bug in previous code in calculating daily new cases, rewrites calculation logic to fix the error: <br />
+With vectoriztion, we improved code execution time and fixed the calculation error. <br />
 
 ### Steps taken: 
 Data transformation: 
