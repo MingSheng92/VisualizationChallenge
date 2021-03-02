@@ -1,4 +1,4 @@
-# Covid 19 visualization Part 2 (WIP)
+# Covid 19 visualization Part 2
 
 ### Data Source 
 The data used in this visualization can be found at [COVID-19 Data Repository](https://github.com/CSSEGISandData/COVID-19)
